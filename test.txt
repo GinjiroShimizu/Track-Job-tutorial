@@ -1,4 +1,8 @@
 Hello World
 This is track
+<<<<<<< HEAD
 aho
 aho
+=======
+okazakiryouta
+>>>>>>> 31e60a395bdda2e908a6bfac40a2d21d07ee28b7
